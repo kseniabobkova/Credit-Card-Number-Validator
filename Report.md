@@ -2,18 +2,19 @@
 
 ## Краткое описание
 
-12.01.2020 было проведено <перечисление видов тестирование> приложения <название приложения>.
+12.01.2020 было проведено функциональное тестирование приложения Credit Card Number Validator.
 
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
 * [Некорректный статус для валидных карт с номером из 19 цифр](https://github.com/kseniabobkova/Credit-Card-Number-Validator/issues/1)
+* [Некорректный статус для валидных карт платежной системы American Express](https://github.com/kseniabobkova/Credit-Card-Number-Validator/issues/2)
+* [Некорректный статус для валидных платежной системы Diners Club](https://github.com/kseniabobkova/Credit-Card-Number-Validator/issues/3)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Valid Credit Card Number](https://github.com/kseniabobkova/Credit-Card-Number-Validator/blob/master/Card_number.md)
-* [.gitignore](https://github.com/kseniabobkova/Credit-Card-Number-Validator/blob/master/.gitignore)
+* [List_of_Tested_Valid_Credit_Card_Number](https://github.com/kseniabobkova/Credit-Card-Number-Validator/blob/master/List_of_Tested_Valid_Credit_Card_Number.md)
 * [src](https://github.com/kseniabobkova/Credit-Card-Number-Validator/tree/master/src)
 
 В качестве тестовых данных использовались данные:
