@@ -1,4 +1,4 @@
-# Valid Credit Card Number
+# List of Tested Valid Credit Card Number
 *VISA*
 
 * 4716486728787753
